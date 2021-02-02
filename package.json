@@ -25,11 +25,11 @@
     "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0"
   },
   "dependencies": {
-    "@babel/core": "^7.0.0",
-    "@babel/plugin-transform-flow-strip-types": "^7.0.0",
-    "@babel/preset-env": "^7.0.0",
-    "@babel/preset-react": "^7.0.0",
-    "@babel/register": "^7.0.0",
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-transform-flow-strip-types": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "@babel/register": "^7.12.10",
     "js-beautify": "^1.7.3",
     "lodash.escaperegexp": "^4.1.2",
     "object-assign": "^4.1.1"
